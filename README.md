@@ -1,2 +1,2 @@
 # academy-award-ceremony
-Academy award ceremony API application
+Academy award ceremony REST API application
